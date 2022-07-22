@@ -1,0 +1,23 @@
+/* body{
+    margin: 0;
+    background: burlywood;
+    overflow: hidden;
+    text-align: center;
+}
+
+#myCanvas{
+    background: lightgrey;
+}
+ */
+
+
+body{
+    margin:0;
+    background:beige;
+    overflow:hidden;
+    text-align:center;
+}
+
+#myCanvas{
+    background:darkslategrey;
+}
